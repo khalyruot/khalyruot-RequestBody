@@ -6,7 +6,7 @@ import io.javalin.Javalin;
 
 /**
  * Background: A json string representing a song will be sent in this POST request with the following fields: 
- *      songName, artistName
+ *      songName, artistName.
  */
 public class JavalinSingleton {
 
